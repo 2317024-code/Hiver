@@ -1,0 +1,6 @@
+{
+  "name": "Hiver AI Support Agent & Benchmark",
+  "description": "Production-grade Twitter customer support AI agent for SpotifyCares with intent classification, grounded drafting, escalation triage, and evaluation harness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
